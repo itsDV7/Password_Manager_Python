@@ -7,3 +7,7 @@ A CLI based Password Manager in Python which is able to save hidden database loc
 * Viewing Complete Database
 * Changing Master Password
 * Master Password Recovery
+## Usage
+* **Pull files:** [passManager.py](https://github.com/itsDV7/Password_Manager_Python/blob/main/passManager.py) and [pwdgen.py](https://github.com/itsDV7/Password_Manager_Python/blob/main/pwdgen.py) to same directory.
+* **Pip install:** [cryptography](https://pypi.org/project/cryptography/) `pip install cryptography`
+* **Run:** Execute [passManager.py](https://github.com/itsDV7/Password_Manager_Python/blob/main/passManager.py) directly.
